@@ -10,3 +10,6 @@ This allows for multi-threading across the entire engine.
 
 ## Interfaces?
 There is an interface planned that will be made using the engine itself. The engine is flexible enough that the entire editor will be wrote using Llanite!
+
+## Pronounciation?
+Llanite is pronounced, Lan-eye-t.
